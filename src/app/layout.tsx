@@ -2,7 +2,7 @@ import '@/styles/globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'THE MAKER DESK — Omar Stankewech | Interactive 3D Portfolio',
+  title: 'STANKEWECH',
   description: 'THINK. BUILD. EXPERIMENT. Interactive 3D Isometric Portfolio.',
 };
 
